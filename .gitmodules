@@ -1,0 +1,8 @@
+[submodule "packages/ars_optitrack_transf"]
+	path = packages/ars_optitrack_transf
+	url = https://github.com/joselusl/ars_optitrack_transf
+	branch = master
+[submodule "packages/ars_dji_tello_driver_ros"]
+	path = packages/ars_dji_tello_driver_ros
+	url = https://github.com/joselusl/ars_dji_tello_driver_ros
+	branch = master
